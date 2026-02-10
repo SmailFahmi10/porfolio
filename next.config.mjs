@@ -2,8 +2,8 @@
 const nextConfig = {
   output: "export",
 
-  basePath: "/portfolio",
-  assetPrefix: "/portfolio/",
+  basePath: "/portolio",
+  assetPrefix: "/porfolio/",
 
   typescript: {
     ignoreBuildErrors: true,
