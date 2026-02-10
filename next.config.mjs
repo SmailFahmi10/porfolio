@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
 
-  basePath: "/portolio",
+  basePath: "/porfolio",
   assetPrefix: "/porfolio/",
 
   typescript: {
